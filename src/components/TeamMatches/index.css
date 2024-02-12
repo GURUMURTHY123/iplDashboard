@@ -1,0 +1,50 @@
+/* Write your CSS here */
+.RCB {
+  background-image: linear-gradient(#a4261d, #d91c1f);
+}
+
+.KKR {
+  background-image: linear-gradient(#5755a7, #ffffff33);
+}
+
+.KXP {
+  background-image: linear-gradient(#d91c1f, #1e293b);
+}
+
+.CSK {
+  background-image: linear-gradient(#f7db00, #1e293b);
+}
+
+.RR {
+  background-image: linear-gradient(#da237b, #1e293b);
+}
+
+.MI {
+  background-image: linear-gradient(#13418b, #ffffff33);
+}
+
+.SH {
+  background-image: linear-gradient(#f26d22, #a27634);
+}
+
+.DC {
+  background-image: linear-gradient(#13418b, #4f5db0);
+}
+
+.team-details-container {
+  padding: 2rem 0.8rem;
+}
+
+.banner-image {
+  width: 100%;
+  margin-bottom: 0.5rem;
+}
+
+.match-cards-container {
+  padding: 0;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
+}

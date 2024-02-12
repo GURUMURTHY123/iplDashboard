@@ -1,0 +1,60 @@
+/* Write your CSS here */
+.latest-match-container {
+  margin-bottom: 1rem;
+  font-family: 'Bree Serif';
+}
+
+.latest-match {
+  color: #ffffff;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 0px;
+  margin-bottom: 8px;
+}
+
+.latest-match-card {
+  background-color: #0f172a;
+  border-radius: 10px;
+  padding: 1rem;
+}
+
+.latest-match-opponent-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.latest-match-opponent-details {
+  color: #ffffff;
+  font-family: 'Bree Serif';
+}
+
+.latest-match-opponent-name {
+  font-size: 1.2rem;
+  font-weight: 400;
+}
+
+.latest-match-date {
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.latest-match-venue-result {
+  font-size: 0.8rem;
+  font-weight: 400;
+}
+
+.latest-match-opponent-logo {
+  width: 50px;
+  height: 50px;
+}
+
+.innings-text {
+  color: #ffffff;
+  font-size: 0.9rem;
+}
+
+.innings-details {
+  color: #ffffff;
+  font-size: 0.8rem;
+}
